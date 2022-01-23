@@ -1,2 +1,2 @@
 # Mountain Hike
- Project 5 for my CS102 Data Structures class
+This program is a school project for my CS102 Data Structures class. The program uses a binary search tree to simulate a mountain hiking expedition. The BST that represents the tree has various supplies and obstacles at each node. The hiker starts at the root, making its way down to the bottom of the tree if possible. Any possible paths down the mountain are displayed to the console. The BST that is implemented in the program uses AVL rules to create a balanced tree.
