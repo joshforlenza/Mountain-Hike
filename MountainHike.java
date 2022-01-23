@@ -24,7 +24,6 @@ import java.util.Scanner;
 public class MountainHike {
 
 	public static void main(String[] args) {
-		//this is a test for Github
 
 		// code for validating command line argument is taken from project 2 class
 		// ColorConverted
